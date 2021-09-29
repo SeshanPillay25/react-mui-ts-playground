@@ -8,6 +8,9 @@ import reducer from "./store/reducer";
 import config from "./config";
 import "./assets/scss/style.scss";
 import * as serviceWorker from "./serviceWorker";
+import 'react-toastify/dist/ReactToastify.min.css';
+
+
 const store = createStore(reducer);
 ReactDOM.render(
   <Provider store={store}>

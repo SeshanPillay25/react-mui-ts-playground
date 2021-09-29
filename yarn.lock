@@ -9886,6 +9886,13 @@ react-swipeable@^6.1.0:
   resolved "https://registry.yarnpkg.com/react-swipeable/-/react-swipeable-6.1.0.tgz#558b08a797a749a33e98492af84f2ca84a23d146"
   integrity sha512-vB6+bv1I5L9nfuM7quu41o/kK1f3a7cTQ3NHNWkOltg5uhBpnH6xvkQJeoPfKQ6K4pnifELXY65wzWwWBa+zGg==
 
+react-toastify@^8.0.3:
+  version "8.0.3"
+  resolved "https://registry.yarnpkg.com/react-toastify/-/react-toastify-8.0.3.tgz#7fbf65f69ec357aab8dd03c1496f9177aa92409a"
+  integrity sha512-rv3koC7f9lKKSkdpYgo/TGzgWlrB/aaiUInF1DyV7BpiM4kyTs+uhu6/r8XDMtBY2FOIHK+FlK3Iv7OzpA/tCA==
+  dependencies:
+    clsx "^1.1.1"
+
 react-transition-group@^4.4.0, react-transition-group@^4.4.1:
   version "4.4.1"
   resolved "https://registry.yarnpkg.com/react-transition-group/-/react-transition-group-4.4.1.tgz#63868f9325a38ea5ee9535d828327f85773345c9"
